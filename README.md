@@ -15,7 +15,7 @@ O projeto está hospedado em:
 
 # :pencil2: Imagens da Aplicação
 Homepage:
-<img src="https://github.com/LiihDev/Clinica_Capivarias/blob/main/home.png" width="1200" height="600" />
+<img src="https://github.com/LiihDev/Clinica_Capivarias/blob/main/home.png" width="1300" height="600" />
 
 Login:
 <img src="https://github.com/LiihDev/Clinica_Capivarias/blob/main/login.png" width="1200" height="600" />
